@@ -97,6 +97,15 @@ nav a:hover {
   color: #f4d58d;
 }
 
+.section .images1 img {
+  border-radius: 5%;
+}
+
+.section .but {
+  font-weight: 300;
+  font-size: large;
+}
+
 .section h2 {
   margin-bottom: 30px;
   font-size: 60px;
